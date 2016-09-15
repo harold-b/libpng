@@ -1,4 +1,5 @@
-./Obj/**
+Obj/**
+Bin/**
 
-.sdf
-.VC.opendb
+*.sdf
+*.VC.opendb
